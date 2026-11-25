@@ -1,0 +1,6 @@
+{
+  "name": "Flagsmith Experiment Lab",
+  "description": "Firebase-backed web application ready for Flagsmith A/B experimentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
